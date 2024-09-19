@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkjourney=self.webpackChunkjourney||[]).push([[59],{59:(e,n,s)=>{s.r(n),s.d(n,{default:()=>o});s(43);var t=s(579);const o=function(){return(0,t.jsxs)("div",{className:"container mx-auto p-6",children:[(0,t.jsx)("h1",{className:"text-4xl font-bold",children:"Destination"}),(0,t.jsx)("p",{children:"Welcome to our blog. This is the Destination page."})]})}}}]);
-//# sourceMappingURL=59.963bd44d.chunk.js.map
