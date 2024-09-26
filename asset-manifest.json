@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/journey/static/css/main.24aa8028.css",
-    "main.js": "/journey/static/js/main.ae0779d7.js",
+    "main.css": "/journey/static/css/main.7031b0dc.css",
+    "main.js": "/journey/static/js/main.5ba1d7ae.js",
     "static/js/818.0cb7d1ed.chunk.js": "/journey/static/js/818.0cb7d1ed.chunk.js",
     "static/js/59.b41225ff.chunk.js": "/journey/static/js/59.b41225ff.chunk.js",
     "static/js/431.a2ef3984.chunk.js": "/journey/static/js/431.a2ef3984.chunk.js",
@@ -15,15 +15,15 @@
     "static/media/fa-v4compatibility.ttf": "/journey/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/journey/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/journey/index.html",
-    "main.24aa8028.css.map": "/journey/static/css/main.24aa8028.css.map",
-    "main.ae0779d7.js.map": "/journey/static/js/main.ae0779d7.js.map",
+    "main.7031b0dc.css.map": "/journey/static/css/main.7031b0dc.css.map",
+    "main.5ba1d7ae.js.map": "/journey/static/js/main.5ba1d7ae.js.map",
     "818.0cb7d1ed.chunk.js.map": "/journey/static/js/818.0cb7d1ed.chunk.js.map",
     "59.b41225ff.chunk.js.map": "/journey/static/js/59.b41225ff.chunk.js.map",
     "431.a2ef3984.chunk.js.map": "/journey/static/js/431.a2ef3984.chunk.js.map",
     "453.c5407976.chunk.js.map": "/journey/static/js/453.c5407976.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24aa8028.css",
-    "static/js/main.ae0779d7.js"
+    "static/css/main.7031b0dc.css",
+    "static/js/main.5ba1d7ae.js"
   ]
 }
