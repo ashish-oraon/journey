@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/journey/static/css/main.433949a2.css",
+    "main.css": "/journey/static/css/main.56b74509.css",
     "main.js": "/journey/static/js/main.9f01eab2.js",
     "static/js/818.9ee98a48.chunk.js": "/journey/static/js/818.9ee98a48.chunk.js",
     "static/js/59.b41225ff.chunk.js": "/journey/static/js/59.b41225ff.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/fa-v4compatibility.ttf": "/journey/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/journey/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/journey/index.html",
-    "main.433949a2.css.map": "/journey/static/css/main.433949a2.css.map",
+    "main.56b74509.css.map": "/journey/static/css/main.56b74509.css.map",
     "main.9f01eab2.js.map": "/journey/static/js/main.9f01eab2.js.map",
     "818.9ee98a48.chunk.js.map": "/journey/static/js/818.9ee98a48.chunk.js.map",
     "59.b41225ff.chunk.js.map": "/journey/static/js/59.b41225ff.chunk.js.map",
@@ -23,7 +23,7 @@
     "453.c5407976.chunk.js.map": "/journey/static/js/453.c5407976.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.433949a2.css",
+    "static/css/main.56b74509.css",
     "static/js/main.9f01eab2.js"
   ]
 }
